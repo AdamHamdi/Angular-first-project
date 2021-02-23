@@ -18,7 +18,7 @@ export class HomeComponent implements OnInit {
   //  this.Nom= "trdb";
   //  this.Prenom ="Akrem";
   //  this.Tel=274348225465;
-  //  this.date=new Date();
+    this.date=new Date();
   this.Contacts=[
     {nom:"hamdi",prenom:"ahmed",tel:"274348245522"},
     {nom:"ahmadi",prenom:"Ali",tel:"2756453012"},
